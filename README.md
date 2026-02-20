@@ -2,7 +2,6 @@
 
 This project was developed as part of a technical assessment for **Web Best Practice**.
 
-The objective was to produce a clean, responsive marketing website similar to a real client project, demonstrating attention to structure, usability, and maintainable code rather than complex application logic.
 
 ---
 
@@ -15,8 +14,7 @@ The site represents a fictional local plumbing company and includes:
 * Services listing
 * Contact form with validation and database storage
 * Responsive layout for mobile and desktop
-* SEO-friendly metadata (title, description, Open Graph)
-* Subtle UI animations and interactions
+* SEO-friendly metadata (title, description)
 
 ---
 
