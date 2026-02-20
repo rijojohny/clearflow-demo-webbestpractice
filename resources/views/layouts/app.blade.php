@@ -26,9 +26,9 @@
 
     <!-- AOS -->
     <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
-    
+
     <!-- CSS -->
-    <link href="{{ asset('css/site.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/site.css') }}" rel="stylesheet">
 
     @stack('head')
 </head>
